@@ -16,7 +16,7 @@ This tutorial is created to explain about Regex, types and teach one specific of
 
 Just open the next link:
 
-- [Regex Tutorial](https://nodejs.org/) - Github Gist
+- [Regex Tutorial](https://gist.github.com/aletsmc07/7d21d100f6659a55ed8b84488d9f35f0) - Github Gist
 
 
 ## Installation
